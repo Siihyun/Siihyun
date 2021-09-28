@@ -31,18 +31,15 @@
 
 Good day!
 
-I am a Web developer from South Korea 🇰🇷. I am interested in Front-End, Back-End and Public Cloud Environment such as AWS, Azure and NCP. 
+I am a Web developer from South Korea 🇰🇷. <br/> I'm interested in Front-End, Back-End and Public Cloud Environment such as AWS, Azure and NCP. 
 
 Please feel free to contact me if you need any further information.
  
 <br/>
 
-<details align="center">
-  <summary> 
-    <b> Things about me </b> <i>(click to expand 👇)</i> 
-  </summary>
+
   <hr/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=katej927&show_icons=true">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Siihyun&show_icons=true">
   <p>
     <br/>
     <b>⚡ Skills:</b>
@@ -57,6 +54,6 @@ Please feel free to contact me if you need any further information.
     <br/><br/>
   </p>
 <hr/>
-</details>
 
-<br/>
+
+
