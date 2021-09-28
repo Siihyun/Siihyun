@@ -1,6 +1,12 @@
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=Siihyun&&style=flat-square" align="right" />
 </div>  
+  
+
+<br/>  
+
+## Hi There 👋 
+
 
 <a href="https://github.com/siihyun" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -15,7 +21,8 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:seeh_h@kakao.com">
-<img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white "/></a>
+<img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" style="margin-bottom: 5px;"/>
+</a>
 
 
   
@@ -30,12 +37,13 @@ Please feel free to contact me if you need any further information.
  
 <br/>
 
-
-
-<br/>
-
-<hr/>
- <p>
+<details align="center">
+  <summary> 
+    <b> Things about me </b> <i>(click to expand 👇)</i> 
+  </summary>
+  <hr/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=katej927&show_icons=true">
+  <p>
     <br/>
     <b>⚡ Skills:</b>
     <br/>
@@ -49,20 +57,6 @@ Please feel free to contact me if you need any further information.
     <br/><br/>
   </p>
 <hr/>
+</details>
 
 <br/>
-
-## Github Stats  
-<table><tr><td valign="top" width="100%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Siihyun&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td>
-
-</tr></table>  
-
-<br/>  
-
-  
-<br>
-
