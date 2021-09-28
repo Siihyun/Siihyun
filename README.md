@@ -38,7 +38,7 @@ Please feel free to contact me if you need any further information.
 <br/>
 
 
-  <hr/>
+  
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Siihyun&show_icons=true">
   <p>
     <br/>
@@ -54,7 +54,7 @@ Please feel free to contact me if you need any further information.
       <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></span>
     <br/><br/>
   </p>
-<hr/>
+
 
 
 
