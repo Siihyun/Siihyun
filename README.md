@@ -42,7 +42,8 @@ Please feel free to contact me if you need any further information.
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Siihyun&show_icons=true">
   <p>
     <br/>
-    <b>⚡ Skills:</b>
+    <b>⚡ Skills</b>
+    <br/>
     <br/>
       <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></span>
       <span><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></span>
