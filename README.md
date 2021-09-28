@@ -29,8 +29,6 @@
 
 ### Hello, I'm Sihyun!
 
-Good day!
-
 I am a Web developer from South Korea 🇰🇷. <br/> I'm interested in Front-End, Back-End and Public Cloud Environment such as AWS, Azure and NCP. 
 
 Please feel free to contact me if you need any further information.
@@ -52,7 +50,7 @@ Please feel free to contact me if you need any further information.
       <span><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></span>
       <span><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB"/></span>
       <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></span>
-    <br/><br/>
+    <br/>
   </p>
 
 
