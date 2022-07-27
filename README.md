@@ -14,7 +14,7 @@
 <a href="https://velog.io/@seeh_h" target="_blank">
 <img src=https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white alt=velog style="margin-bottom: 5px;" />
 </a>
-<a href="www.linkedin.com/in/sihyun-ahn" target="_blank">
+<a href="https://www.linkedin.com/in/sihyun-ahn" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/seeh__h/" target="_blank">
