@@ -29,9 +29,7 @@
 
 ### Hello, I'm Sihyun!
 
-I am a Web developer from South Korea 🇰🇷. <br/> I'm interested in Front-End, Back-End and Public Cloud Environment such as AWS, Azure and NCP. 
-
-Please feel free to contact me if you need any further information.
+I am a Web developer from South Korea 🇰🇷. <br/> Please feel free to contact me if you need any further information.
  
 <br/>
 
